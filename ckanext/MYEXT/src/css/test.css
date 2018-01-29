@@ -1,0 +1,11 @@
+body {
+  & > .hide {
+    display: block;
+    background-color: #fff000;
+    padding: 15px;
+
+    &:before {
+      content: 'Theme applied! \00a0';
+    }
+  }
+}
