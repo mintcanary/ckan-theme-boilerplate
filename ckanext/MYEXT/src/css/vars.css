@@ -1,0 +1,13 @@
+:root {
+  --primary-colour: #007bff;
+  --secondary-colour: #6c757d;
+  --body-bg: #FFF;
+  --body-colour: #333;
+  --heading-colour: #333;
+  --success-colour: #28a745;
+  --warning-colour: #ffc107;
+  --info-colour: #17a2b8;
+  --danger-colour: #dc3545;
+
+  --font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
