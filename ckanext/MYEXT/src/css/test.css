@@ -1,11 +1,11 @@
 body {
   & > .hide {
-    display: block;
+    display: block !important;
     background-color: #fff000;
     padding: 15px;
 
     &:before {
-      content: 'Theme applied! \00a0';
+      content: 'Theme applied! \01F64C You can now remove test.css \00a0';
     }
   }
 }
