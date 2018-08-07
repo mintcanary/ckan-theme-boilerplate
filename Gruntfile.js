@@ -15,14 +15,14 @@ module.exports = function(grunt) {
         ]
       },
       dist: {
-        src: 'ckanext/unhcr/src/css/theme.css',
-        dest: 'ckanext/unhcr/fanstatic/theme.css'
+        src: 'ckanext/MYEXT/src/css/theme.css',
+        dest: 'ckanext/MYEXT/fanstatic/theme.css'
       }
     },
 
     watch: {
       css: {
-        files: 'ckanext/unhcr/src/css/*.css',
+        files: 'ckanext/MYEXT/src/css/*.css',
         tasks: ['postcss']
       }
     }
