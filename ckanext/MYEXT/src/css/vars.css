@@ -4,6 +4,7 @@
   --body-bg: #FFF;
   --body-colour: #333;
   --heading-colour: #333;
+  --link-colour: var(--primary-colour);
   --success-colour: #28a745;
   --warning-colour: #ffc107;
   --info-colour: #17a2b8;
