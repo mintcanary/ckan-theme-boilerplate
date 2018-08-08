@@ -11,7 +11,8 @@ module.exports = function(grunt) {
           require('autoprefixer'),
           require('postcss-custom-media'),
           require('postcss-custom-properties'),
-          require('postcss-nesting')
+          require('postcss-nesting'),
+          require('postcss-clean')
         ]
       },
       dist: {
